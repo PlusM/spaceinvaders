@@ -1,7 +1,7 @@
 Building a Space Invaders Game
 =============
 
-Working through the Code Dojo youtube video
+Working through the Coding Dojo youtube video
 ------------
 
 [YouTube link here](https://youtu.be/XmqAPQsc1n4)
